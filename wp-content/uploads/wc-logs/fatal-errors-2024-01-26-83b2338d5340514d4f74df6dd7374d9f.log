@@ -1,0 +1,45 @@
+2024-01-26T02:30:38+00:00 CRITICAL syntax error, unexpected token ">", em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\themes\zumba\home.php, na linha 22
+
+2024-01-26T02:30:46+00:00 CRITICAL syntax error, unexpected token ">", em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\themes\zumba\home.php, na linha 22
+
+2024-01-26T02:39:56+00:00 CRITICAL syntax error, unexpected token ">", em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\themes\zumba\home.php, na linha 22
+
+2024-01-26T02:40:01+00:00 CRITICAL syntax error, unexpected token ">", em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\themes\zumba\home.php, na linha 22
+
+2024-01-26T03:35:16+00:00 CRITICAL syntax error, unexpected token ">", em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\themes\zumba\home.php, na linha 22
+
+2024-01-26T05:29:55+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class YITH_Woocompare_Frontend does not have a method "display_compare_button" in C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-config.php(103): require_once('C:\\Users\\Marcia...')
+#4 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-load.php(50): require_once('C:\\Users\\Marcia...')
+#5 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Marcia...')
+#6 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\index.php(17): require('C:\\Users\\Marcia...')
+#7 {main}
+  thrown, em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php, na linha 324
+
+2024-01-26T05:29:55+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class YITH_Woocompare_Frontend does not have a method "display_compare_button" in C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-config.php(103): require_once('C:\\Users\\Marcia...')
+#4 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-load.php(50): require_once('C:\\Users\\Marcia...')
+#5 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Marcia...')
+#6 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\index.php(17): require('C:\\Users\\Marcia...')
+#7 {main}
+  thrown, em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php, na linha 324
+
+2024-01-26T05:30:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, class YITH_Woocompare_Frontend does not have a method "display_compare_button" in C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-config.php(103): require_once('C:\\Users\\Marcia...')
+#4 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-load.php(50): require_once('C:\\Users\\Marcia...')
+#5 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-cron.php(46): require_once('C:\\Users\\Marcia...')
+#6 {main}
+  thrown, em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php, na linha 324
+

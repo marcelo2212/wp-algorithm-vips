@@ -1,0 +1,179 @@
+# Translation of Themes - Soga in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Soga package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-10 08:40:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Soga\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Soga is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. Soga comes with everything you could ever need to build an amazing website, and it's perfect for any type of business! View the demo of Soga Premium https://demo.speciatheme.com/pro/?theme=soga"
+msgstr "Soga é um tema WordPress com muitos recursos poderosos, este tema dá instantaneamente uma aparência profissional à sua presença online. O Soga vem com tudo que você precisa para construir um site incrível, e é perfeito para qualquer tipo de negócio! Veja a demonstração do Soga Premium https://demo.speciatheme.com/pro/?theme=soga"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Soga"
+msgstr "Soga"
+
+#: sections/soga-service.php:74
+msgid "Read More"
+msgstr "Ler mais"
+
+#: inc/customize/soga-premium.php:27
+msgid "Support Center"
+msgstr "Centro de Suporte"
+
+#: inc/customize/soga-premium.php:25
+msgid "Buy Now"
+msgstr "Comprar agora"
+
+#: inc/customize/soga-premium.php:23
+msgid "Premium Demo"
+msgstr "Demo Premium"
+
+#: inc/customize/soga-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Atualize para o Premium"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Homepage um"
+
+#: sections/specia-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Search Results for: %s"
+msgstr "Resultados da busca por: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Arquivo da tag: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Arquivo da categoria: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Arquivo anual: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Arquivo mensal: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Arquivo diários: %s"
+
+#: sections/soga-navigation.php:148
+msgid "0"
+msgstr "0"
+
+#: sections/soga-navigation.php:123
+msgid "Type To Search"
+msgstr "Digite para pesquisar"
+
+#: sections/soga-navigation.php:122
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: sections/soga-navigation.php:121
+msgid "Site Search"
+msgstr "Pesquisa do site"
+
+#: inc/customize/soga-header-section.php:135
+msgid "Link"
+msgstr "Link"
+
+#: inc/customize/soga-header-section.php:116
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/customize/soga-header-section.php:95
+msgid "Title"
+msgstr "Título"
+
+#: inc/customize/soga-header-section.php:49
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar seção"
+
+#: inc/customize/soga-header-section.php:11
+#: inc/customize/soga-header-section.php:30
+msgid "Contact Info 2"
+msgstr "Informação de contato 2"
+
+#: inc/customize/soga-call-action.php:249
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: inc/customize/soga-call-action.php:228
+msgid "Select Page for Info 3"
+msgstr "Selecione a página para informações 3"
+
+#: inc/customize/soga-call-action.php:207
+msgid "Select Page for Info 2"
+msgstr "Selecionar página para informações 2"
+
+#: inc/customize/soga-call-action.php:186
+msgid "Select Page for Info 1"
+msgstr "Selecionar página para informações 1"
+
+#: inc/customize/soga-call-action.php:164
+msgid "Review title"
+msgstr "Título da crítica"
+
+#: inc/customize/soga-call-action.php:144
+msgid "Button Link 3"
+msgstr "Botão Link 3"
+
+#: inc/customize/soga-call-action.php:125
+msgid "Button Text 3"
+msgstr "Botão Texto 3"
+
+#: inc/customize/soga-call-action.php:63
+msgid "Button Third"
+msgstr "Terceiro botão"
+
+#: inc/customize/soga-call-action.php:41 inc/customize/soga-call-action.php:105
+msgid "Button Title"
+msgstr "Título do Botão"
+
+#: inc/customize/soga-call-action.php:21 inc/customize/soga-call-action.php:84
+#: inc/customize/soga-header-section.php:75
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customize/soga-call-action.php:12
+msgid "fa-bell"
+msgstr "fa-bell"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://speciatheme.com/soga-free/"
+msgstr "https://speciatheme.com/soga-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Specia"
+msgstr "Specia"

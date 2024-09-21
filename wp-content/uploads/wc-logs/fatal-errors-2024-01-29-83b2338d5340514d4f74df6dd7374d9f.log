@@ -1,0 +1,17 @@
+2024-01-29T20:22:42+00:00 CRITICAL Uncaught Error: Call to undefined method ElementorPro\License\Admin::get_installed_time() in C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\pro-elements\core\admin\admin.php:264
+Stack trace:
+#0 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php(324): ElementorPro\Core\Admin\Admin->change_tracker_params(Array)
+#1 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#2 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\elementor\includes\tracker.php(563): apply_filters('elementor/track...', Array)
+#3 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\elementor\includes\tracker.php(141): Elementor\Tracker::get_tracking_data(true)
+#4 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\elementor\includes\tracker.php(222): Elementor\Tracker::send_tracking_data(true)
+#5 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\elementor\core\common\modules\connect\apps\base-app.php(212): Elementor\Tracker::set_opt_in(true)
+#6 [internal function]: Elementor\Core\Common\Modules\Connect\Apps\Base_App->action_get_token()
+#7 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\elementor\core\common\modules\connect\admin.php(57): call_user_func(Array)
+#8 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Common\Modules\Connect\Admin->on_load_page('')
+#9 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-admin\admin.php(237): do_action('load-elementor_...')
+#12 {main}
+  thrown, em C:\Users\Marcia\Local Sites\photoacompanhantevip\app\public\wp-content\plugins\pro-elements\core\admin\admin.php, na linha 264
+
